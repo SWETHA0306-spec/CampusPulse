@@ -1,0 +1,130 @@
+# ============================================================
+#  CampusPulse – Root .gitignore
+# ============================================================
+
+# ──────────────────────────────────────────────────────────────
+# Python
+# ──────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+parts/
+var/
+sdist/
+wheels/
+*.pyo
+.Python
+pip-log.txt
+pip-delete-this-directory.txt
+.installed.cfg
+lib/
+lib64/
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env.local/
+ENV/
+env.bak/
+venv.bak/
+
+# ──────────────────────────────────────────────────────────────
+# Environment & Secrets  ← NEVER commit these
+# ──────────────────────────────────────────────────────────────
+.env
+.env.*
+!.env.example          # keep the example template
+*.pem
+*.key
+*.p12
+credentials/*.json     # Google service-account keys
+secrets/
+
+# ──────────────────────────────────────────────────────────────
+# Node / Frontend (React + Vite)
+# ──────────────────────────────────────────────────────────────
+node_modules/
+dist/
+.vite/
+*.local
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+pnpm-lock.yaml         # optional – remove line to track lock file
+package-lock.json      # optional – remove line to track lock file
+
+# ──────────────────────────────────────────────────────────────
+# Vector Stores & Model Artefacts
+# ──────────────────────────────────────────────────────────────
+vectorstore/
+chroma_db/
+*.faiss
+*.pkl
+*.bin
+*.pt
+*.onnx
+
+# ──────────────────────────────────────────────────────────────
+# Data files (keep sample CSVs, ignore large/real exports)
+# ──────────────────────────────────────────────────────────────
+# Uncomment the lines below if you switch to real student data:
+# data/csv/*.csv
+# data/*.csv
+# personalised_learning_agent/data/*.csv
+
+# ──────────────────────────────────────────────────────────────
+# Logs & Temporary files
+# ──────────────────────────────────────────────────────────────
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+.cache/
+tmp/
+temp/
+
+# ──────────────────────────────────────────────────────────────
+# IDEs & Editors
+# ──────────────────────────────────────────────────────────────
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ──────────────────────────────────────────────────────────────
+# Testing & Coverage
+# ──────────────────────────────────────────────────────────────
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+nosetests.xml
+coverage.xml
+*.cover
+
+# ──────────────────────────────────────────────────────────────
+# Jupyter Notebooks (checkpoints only)
+# ──────────────────────────────────────────────────────────────
+.ipynb_checkpoints/
+
+# ──────────────────────────────────────────────────────────────
+# Miscellaneous
+# ──────────────────────────────────────────────────────────────
+*.zip
+*.tar.gz
+*.rar

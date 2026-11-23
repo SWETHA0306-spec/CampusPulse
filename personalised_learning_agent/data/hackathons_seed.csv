@@ -1,0 +1,6 @@
+hackathon_id,name,url,domain,deadline,description
+H001,Smart India Hackathon 2026,https://sih.gov.in,software,8/5/2026,National level hackathon covering real world problem statements across software and hardware domains
+H002,IoT Innovate 2026,https://example.com/iot-innovate,iot,8/20/2026,Hackathon focused on embedded systems and IoT based solutions for smart cities
+H003,ReactJS Builders Hack,https://example.com/react-hack,web,8/10/2026,Frontend focused hackathon for building React based web applications
+H004,AI Campus Challenge,https://example.com/ai-campus,artificial_intelligence,8/18/2026,AI and machine learning hackathon for innovative student solutions
+H005,Data Science Sprint,https://example.com/data-sprint,data_science,8/25/2026,"Competition focused on data analytics, visualization, and predictive modeling"

@@ -1,9 +1,601 @@
-roll_no,subject,exam_type,score,max_score
-21CS001,Data Structures,CIA1,38,50
-21CS001,Operating Systems,CIA1,22,50
-21CS002,Data Structures,CIA1,45,50
-21CS002,Operating Systems,CIA1,40,50
-21CS003,Data Structures,CIA1,19,50
-21CS003,Operating Systems,CIA1,25,50
-21IT002,Database Systems,CIA1,17,50
-21IT002,Computer Networks,CIA1,20,50
+student_id,subject_code,subject_name,exam_type,marks,max_marks,exam_date
+S001,CS301,Machine Learning,Internal1,29,100,8/2/2026
+S001,CS302,Operating Systems,Internal1,79,100,8/4/2026
+S001,CS303,Database Management Systems,Internal1,86,100,8/6/2026
+S001,CS304,Computer Networks,Internal1,26,100,8/8/2026
+S002,CS301,Machine Learning,Internal1,51,100,8/2/2026
+S002,CS302,Operating Systems,Internal1,84,100,8/4/2026
+S002,CS303,Database Management Systems,Internal1,87,100,8/6/2026
+S002,CS304,Computer Networks,Internal1,60,100,8/8/2026
+S003,CS301,Machine Learning,Internal1,45,100,8/2/2026
+S003,CS302,Operating Systems,Internal1,29,100,8/4/2026
+S003,CS303,Database Management Systems,Internal1,91,100,8/6/2026
+S003,CS304,Computer Networks,Internal1,87,100,8/8/2026
+S004,CS301,Machine Learning,Internal1,66,100,8/2/2026
+S004,CS302,Operating Systems,Internal1,34,100,8/4/2026
+S004,CS303,Database Management Systems,Internal1,56,100,8/6/2026
+S004,CS304,Computer Networks,Internal1,71,100,8/8/2026
+S005,CS301,Machine Learning,Internal1,30,100,8/2/2026
+S005,CS302,Operating Systems,Internal1,78,100,8/4/2026
+S005,CS303,Database Management Systems,Internal1,42,100,8/6/2026
+S005,CS304,Computer Networks,Internal1,70,100,8/8/2026
+S006,CS301,Machine Learning,Internal1,73,100,8/2/2026
+S006,CS302,Operating Systems,Internal1,78,100,8/4/2026
+S006,CS303,Database Management Systems,Internal1,61,100,8/6/2026
+S006,CS304,Computer Networks,Internal1,58,100,8/8/2026
+S007,EC201,Embedded Systems,Internal1,83,100,8/3/2026
+S007,EC202,Digital Electronics,Internal1,47,100,8/5/2026
+S007,EC203,Microcontrollers,Internal1,63,100,8/7/2026
+S007,EC204,IoT,Internal1,71,100,8/9/2026
+S008,CS301,Machine Learning,Internal1,42,100,8/2/2026
+S008,CS302,Operating Systems,Internal1,83,100,8/4/2026
+S008,CS303,Database Management Systems,Internal1,55,100,8/6/2026
+S008,CS304,Computer Networks,Internal1,81,100,8/8/2026
+S009,CS301,Machine Learning,Internal1,73,100,8/2/2026
+S009,CS302,Operating Systems,Internal1,30,100,8/4/2026
+S009,CS303,Database Management Systems,Internal1,25,100,8/6/2026
+S009,CS304,Computer Networks,Internal1,55,100,8/8/2026
+S010,CS301,Machine Learning,Internal1,42,100,8/2/2026
+S010,CS302,Operating Systems,Internal1,49,100,8/4/2026
+S010,CS303,Database Management Systems,Internal1,63,100,8/6/2026
+S010,CS304,Computer Networks,Internal1,93,100,8/8/2026
+S011,CS301,Machine Learning,Internal1,71,100,8/2/2026
+S011,CS302,Operating Systems,Internal1,55,100,8/4/2026
+S011,CS303,Database Management Systems,Internal1,65,100,8/6/2026
+S011,CS304,Computer Networks,Internal1,95,100,8/8/2026
+S012,CS301,Machine Learning,Internal1,82,100,8/2/2026
+S012,CS302,Operating Systems,Internal1,80,100,8/4/2026
+S012,CS303,Database Management Systems,Internal1,85,100,8/6/2026
+S012,CS304,Computer Networks,Internal1,33,100,8/8/2026
+S013,CS301,Machine Learning,Internal1,66,100,8/2/2026
+S013,CS302,Operating Systems,Internal1,89,100,8/4/2026
+S013,CS303,Database Management Systems,Internal1,45,100,8/6/2026
+S013,CS304,Computer Networks,Internal1,53,100,8/8/2026
+S014,EC201,Embedded Systems,Internal1,77,100,8/3/2026
+S014,EC202,Digital Electronics,Internal1,55,100,8/5/2026
+S014,EC203,Microcontrollers,Internal1,29,100,8/7/2026
+S014,EC204,IoT,Internal1,29,100,8/9/2026
+S015,CS301,Machine Learning,Internal1,88,100,8/2/2026
+S015,CS302,Operating Systems,Internal1,63,100,8/4/2026
+S015,CS303,Database Management Systems,Internal1,34,100,8/6/2026
+S015,CS304,Computer Networks,Internal1,93,100,8/8/2026
+S016,CS301,Machine Learning,Internal1,35,100,8/2/2026
+S016,CS302,Operating Systems,Internal1,44,100,8/4/2026
+S016,CS303,Database Management Systems,Internal1,74,100,8/6/2026
+S016,CS304,Computer Networks,Internal1,72,100,8/8/2026
+S017,CS301,Machine Learning,Internal1,44,100,8/2/2026
+S017,CS302,Operating Systems,Internal1,39,100,8/4/2026
+S017,CS303,Database Management Systems,Internal1,37,100,8/6/2026
+S017,CS304,Computer Networks,Internal1,81,100,8/8/2026
+S018,CS301,Machine Learning,Internal1,46,100,8/2/2026
+S018,CS302,Operating Systems,Internal1,49,100,8/4/2026
+S018,CS303,Database Management Systems,Internal1,69,100,8/6/2026
+S018,CS304,Computer Networks,Internal1,80,100,8/8/2026
+S019,CS301,Machine Learning,Internal1,78,100,8/2/2026
+S019,CS302,Operating Systems,Internal1,82,100,8/4/2026
+S019,CS303,Database Management Systems,Internal1,56,100,8/6/2026
+S019,CS304,Computer Networks,Internal1,60,100,8/8/2026
+S020,CS301,Machine Learning,Internal1,43,100,8/2/2026
+S020,CS302,Operating Systems,Internal1,91,100,8/4/2026
+S020,CS303,Database Management Systems,Internal1,47,100,8/6/2026
+S020,CS304,Computer Networks,Internal1,40,100,8/8/2026
+S021,EC201,Embedded Systems,Internal1,59,100,8/3/2026
+S021,EC202,Digital Electronics,Internal1,83,100,8/5/2026
+S021,EC203,Microcontrollers,Internal1,63,100,8/7/2026
+S021,EC204,IoT,Internal1,46,100,8/9/2026
+S022,CS301,Machine Learning,Internal1,47,100,8/2/2026
+S022,CS302,Operating Systems,Internal1,47,100,8/4/2026
+S022,CS303,Database Management Systems,Internal1,86,100,8/6/2026
+S022,CS304,Computer Networks,Internal1,69,100,8/8/2026
+S023,CS301,Machine Learning,Internal1,66,100,8/2/2026
+S023,CS302,Operating Systems,Internal1,80,100,8/4/2026
+S023,CS303,Database Management Systems,Internal1,53,100,8/6/2026
+S023,CS304,Computer Networks,Internal1,25,100,8/8/2026
+S024,CS301,Machine Learning,Internal1,94,100,8/2/2026
+S024,CS302,Operating Systems,Internal1,30,100,8/4/2026
+S024,CS303,Database Management Systems,Internal1,67,100,8/6/2026
+S024,CS304,Computer Networks,Internal1,65,100,8/8/2026
+S025,CS301,Machine Learning,Internal1,56,100,8/2/2026
+S025,CS302,Operating Systems,Internal1,35,100,8/4/2026
+S025,CS303,Database Management Systems,Internal1,58,100,8/6/2026
+S025,CS304,Computer Networks,Internal1,82,100,8/8/2026
+S026,CS301,Machine Learning,Internal1,76,100,8/2/2026
+S026,CS302,Operating Systems,Internal1,45,100,8/4/2026
+S026,CS303,Database Management Systems,Internal1,74,100,8/6/2026
+S026,CS304,Computer Networks,Internal1,88,100,8/8/2026
+S027,CS301,Machine Learning,Internal1,55,100,8/2/2026
+S027,CS302,Operating Systems,Internal1,92,100,8/4/2026
+S027,CS303,Database Management Systems,Internal1,59,100,8/6/2026
+S027,CS304,Computer Networks,Internal1,91,100,8/8/2026
+S028,EC201,Embedded Systems,Internal1,86,100,8/3/2026
+S028,EC202,Digital Electronics,Internal1,88,100,8/5/2026
+S028,EC203,Microcontrollers,Internal1,33,100,8/7/2026
+S028,EC204,IoT,Internal1,46,100,8/9/2026
+S029,CS301,Machine Learning,Internal1,87,100,8/2/2026
+S029,CS302,Operating Systems,Internal1,84,100,8/4/2026
+S029,CS303,Database Management Systems,Internal1,76,100,8/6/2026
+S029,CS304,Computer Networks,Internal1,42,100,8/8/2026
+S030,CS301,Machine Learning,Internal1,78,100,8/2/2026
+S030,CS302,Operating Systems,Internal1,94,100,8/4/2026
+S030,CS303,Database Management Systems,Internal1,69,100,8/6/2026
+S030,CS304,Computer Networks,Internal1,93,100,8/8/2026
+S031,CS301,Machine Learning,Internal1,74,100,8/2/2026
+S031,CS302,Operating Systems,Internal1,87,100,8/4/2026
+S031,CS303,Database Management Systems,Internal1,46,100,8/6/2026
+S031,CS304,Computer Networks,Internal1,81,100,8/8/2026
+S032,CS301,Machine Learning,Internal1,37,100,8/2/2026
+S032,CS302,Operating Systems,Internal1,78,100,8/4/2026
+S032,CS303,Database Management Systems,Internal1,29,100,8/6/2026
+S032,CS304,Computer Networks,Internal1,25,100,8/8/2026
+S033,CS301,Machine Learning,Internal1,81,100,8/2/2026
+S033,CS302,Operating Systems,Internal1,93,100,8/4/2026
+S033,CS303,Database Management Systems,Internal1,33,100,8/6/2026
+S033,CS304,Computer Networks,Internal1,31,100,8/8/2026
+S034,CS301,Machine Learning,Internal1,69,100,8/2/2026
+S034,CS302,Operating Systems,Internal1,36,100,8/4/2026
+S034,CS303,Database Management Systems,Internal1,44,100,8/6/2026
+S034,CS304,Computer Networks,Internal1,38,100,8/8/2026
+S035,EC201,Embedded Systems,Internal1,83,100,8/3/2026
+S035,EC202,Digital Electronics,Internal1,87,100,8/5/2026
+S035,EC203,Microcontrollers,Internal1,42,100,8/7/2026
+S035,EC204,IoT,Internal1,83,100,8/9/2026
+S036,CS301,Machine Learning,Internal1,80,100,8/2/2026
+S036,CS302,Operating Systems,Internal1,89,100,8/4/2026
+S036,CS303,Database Management Systems,Internal1,82,100,8/6/2026
+S036,CS304,Computer Networks,Internal1,68,100,8/8/2026
+S037,CS301,Machine Learning,Internal1,58,100,8/2/2026
+S037,CS302,Operating Systems,Internal1,83,100,8/4/2026
+S037,CS303,Database Management Systems,Internal1,79,100,8/6/2026
+S037,CS304,Computer Networks,Internal1,67,100,8/8/2026
+S038,CS301,Machine Learning,Internal1,91,100,8/2/2026
+S038,CS302,Operating Systems,Internal1,91,100,8/4/2026
+S038,CS303,Database Management Systems,Internal1,44,100,8/6/2026
+S038,CS304,Computer Networks,Internal1,55,100,8/8/2026
+S039,CS301,Machine Learning,Internal1,66,100,8/2/2026
+S039,CS302,Operating Systems,Internal1,29,100,8/4/2026
+S039,CS303,Database Management Systems,Internal1,50,100,8/6/2026
+S039,CS304,Computer Networks,Internal1,86,100,8/8/2026
+S040,CS301,Machine Learning,Internal1,28,100,8/2/2026
+S040,CS302,Operating Systems,Internal1,39,100,8/4/2026
+S040,CS303,Database Management Systems,Internal1,62,100,8/6/2026
+S040,CS304,Computer Networks,Internal1,80,100,8/8/2026
+S041,CS301,Machine Learning,Internal1,56,100,8/2/2026
+S041,CS302,Operating Systems,Internal1,62,100,8/4/2026
+S041,CS303,Database Management Systems,Internal1,36,100,8/6/2026
+S041,CS304,Computer Networks,Internal1,30,100,8/8/2026
+S042,EC201,Embedded Systems,Internal1,95,100,8/3/2026
+S042,EC202,Digital Electronics,Internal1,38,100,8/5/2026
+S042,EC203,Microcontrollers,Internal1,61,100,8/7/2026
+S042,EC204,IoT,Internal1,45,100,8/9/2026
+S043,CS301,Machine Learning,Internal1,86,100,8/2/2026
+S043,CS302,Operating Systems,Internal1,43,100,8/4/2026
+S043,CS303,Database Management Systems,Internal1,71,100,8/6/2026
+S043,CS304,Computer Networks,Internal1,76,100,8/8/2026
+S044,CS301,Machine Learning,Internal1,49,100,8/2/2026
+S044,CS302,Operating Systems,Internal1,69,100,8/4/2026
+S044,CS303,Database Management Systems,Internal1,48,100,8/6/2026
+S044,CS304,Computer Networks,Internal1,35,100,8/8/2026
+S045,CS301,Machine Learning,Internal1,49,100,8/2/2026
+S045,CS302,Operating Systems,Internal1,79,100,8/4/2026
+S045,CS303,Database Management Systems,Internal1,51,100,8/6/2026
+S045,CS304,Computer Networks,Internal1,37,100,8/8/2026
+S046,CS301,Machine Learning,Internal1,64,100,8/2/2026
+S046,CS302,Operating Systems,Internal1,84,100,8/4/2026
+S046,CS303,Database Management Systems,Internal1,91,100,8/6/2026
+S046,CS304,Computer Networks,Internal1,79,100,8/8/2026
+S047,CS301,Machine Learning,Internal1,82,100,8/2/2026
+S047,CS302,Operating Systems,Internal1,51,100,8/4/2026
+S047,CS303,Database Management Systems,Internal1,59,100,8/6/2026
+S047,CS304,Computer Networks,Internal1,71,100,8/8/2026
+S048,CS301,Machine Learning,Internal1,39,100,8/2/2026
+S048,CS302,Operating Systems,Internal1,25,100,8/4/2026
+S048,CS303,Database Management Systems,Internal1,51,100,8/6/2026
+S048,CS304,Computer Networks,Internal1,79,100,8/8/2026
+S049,EC201,Embedded Systems,Internal1,77,100,8/3/2026
+S049,EC202,Digital Electronics,Internal1,73,100,8/5/2026
+S049,EC203,Microcontrollers,Internal1,50,100,8/7/2026
+S049,EC204,IoT,Internal1,33,100,8/9/2026
+S050,CS301,Machine Learning,Internal1,79,100,8/2/2026
+S050,CS302,Operating Systems,Internal1,36,100,8/4/2026
+S050,CS303,Database Management Systems,Internal1,32,100,8/6/2026
+S050,CS304,Computer Networks,Internal1,69,100,8/8/2026
+S051,CS301,Machine Learning,Internal1,57,100,8/2/2026
+S051,CS302,Operating Systems,Internal1,71,100,8/4/2026
+S051,CS303,Database Management Systems,Internal1,83,100,8/6/2026
+S051,CS304,Computer Networks,Internal1,79,100,8/8/2026
+S052,CS301,Machine Learning,Internal1,49,100,8/2/2026
+S052,CS302,Operating Systems,Internal1,61,100,8/4/2026
+S052,CS303,Database Management Systems,Internal1,84,100,8/6/2026
+S052,CS304,Computer Networks,Internal1,62,100,8/8/2026
+S053,CS301,Machine Learning,Internal1,89,100,8/2/2026
+S053,CS302,Operating Systems,Internal1,88,100,8/4/2026
+S053,CS303,Database Management Systems,Internal1,89,100,8/6/2026
+S053,CS304,Computer Networks,Internal1,58,100,8/8/2026
+S054,CS301,Machine Learning,Internal1,76,100,8/2/2026
+S054,CS302,Operating Systems,Internal1,81,100,8/4/2026
+S054,CS303,Database Management Systems,Internal1,68,100,8/6/2026
+S054,CS304,Computer Networks,Internal1,69,100,8/8/2026
+S055,CS301,Machine Learning,Internal1,60,100,8/2/2026
+S055,CS302,Operating Systems,Internal1,86,100,8/4/2026
+S055,CS303,Database Management Systems,Internal1,82,100,8/6/2026
+S055,CS304,Computer Networks,Internal1,86,100,8/8/2026
+S056,EC201,Embedded Systems,Internal1,86,100,8/3/2026
+S056,EC202,Digital Electronics,Internal1,35,100,8/5/2026
+S056,EC203,Microcontrollers,Internal1,94,100,8/7/2026
+S056,EC204,IoT,Internal1,71,100,8/9/2026
+S057,CS301,Machine Learning,Internal1,76,100,8/2/2026
+S057,CS302,Operating Systems,Internal1,46,100,8/4/2026
+S057,CS303,Database Management Systems,Internal1,78,100,8/6/2026
+S057,CS304,Computer Networks,Internal1,33,100,8/8/2026
+S058,CS301,Machine Learning,Internal1,64,100,8/2/2026
+S058,CS302,Operating Systems,Internal1,27,100,8/4/2026
+S058,CS303,Database Management Systems,Internal1,66,100,8/6/2026
+S058,CS304,Computer Networks,Internal1,66,100,8/8/2026
+S059,CS301,Machine Learning,Internal1,34,100,8/2/2026
+S059,CS302,Operating Systems,Internal1,75,100,8/4/2026
+S059,CS303,Database Management Systems,Internal1,72,100,8/6/2026
+S059,CS304,Computer Networks,Internal1,61,100,8/8/2026
+S060,CS301,Machine Learning,Internal1,48,100,8/2/2026
+S060,CS302,Operating Systems,Internal1,55,100,8/4/2026
+S060,CS303,Database Management Systems,Internal1,46,100,8/6/2026
+S060,CS304,Computer Networks,Internal1,64,100,8/8/2026
+S061,CS301,Machine Learning,Internal1,37,100,8/2/2026
+S061,CS302,Operating Systems,Internal1,31,100,8/4/2026
+S061,CS303,Database Management Systems,Internal1,53,100,8/6/2026
+S061,CS304,Computer Networks,Internal1,34,100,8/8/2026
+S062,CS301,Machine Learning,Internal1,78,100,8/2/2026
+S062,CS302,Operating Systems,Internal1,49,100,8/4/2026
+S062,CS303,Database Management Systems,Internal1,81,100,8/6/2026
+S062,CS304,Computer Networks,Internal1,27,100,8/8/2026
+S063,EC201,Embedded Systems,Internal1,75,100,8/3/2026
+S063,EC202,Digital Electronics,Internal1,50,100,8/5/2026
+S063,EC203,Microcontrollers,Internal1,68,100,8/7/2026
+S063,EC204,IoT,Internal1,49,100,8/9/2026
+S064,CS301,Machine Learning,Internal1,91,100,8/2/2026
+S064,CS302,Operating Systems,Internal1,66,100,8/4/2026
+S064,CS303,Database Management Systems,Internal1,31,100,8/6/2026
+S064,CS304,Computer Networks,Internal1,31,100,8/8/2026
+S065,CS301,Machine Learning,Internal1,29,100,8/2/2026
+S065,CS302,Operating Systems,Internal1,71,100,8/4/2026
+S065,CS303,Database Management Systems,Internal1,75,100,8/6/2026
+S065,CS304,Computer Networks,Internal1,66,100,8/8/2026
+S066,CS301,Machine Learning,Internal1,46,100,8/2/2026
+S066,CS302,Operating Systems,Internal1,45,100,8/4/2026
+S066,CS303,Database Management Systems,Internal1,40,100,8/6/2026
+S066,CS304,Computer Networks,Internal1,69,100,8/8/2026
+S067,CS301,Machine Learning,Internal1,46,100,8/2/2026
+S067,CS302,Operating Systems,Internal1,28,100,8/4/2026
+S067,CS303,Database Management Systems,Internal1,93,100,8/6/2026
+S067,CS304,Computer Networks,Internal1,90,100,8/8/2026
+S068,CS301,Machine Learning,Internal1,69,100,8/2/2026
+S068,CS302,Operating Systems,Internal1,36,100,8/4/2026
+S068,CS303,Database Management Systems,Internal1,75,100,8/6/2026
+S068,CS304,Computer Networks,Internal1,81,100,8/8/2026
+S069,CS301,Machine Learning,Internal1,69,100,8/2/2026
+S069,CS302,Operating Systems,Internal1,32,100,8/4/2026
+S069,CS303,Database Management Systems,Internal1,43,100,8/6/2026
+S069,CS304,Computer Networks,Internal1,81,100,8/8/2026
+S070,EC201,Embedded Systems,Internal1,85,100,8/3/2026
+S070,EC202,Digital Electronics,Internal1,82,100,8/5/2026
+S070,EC203,Microcontrollers,Internal1,81,100,8/7/2026
+S070,EC204,IoT,Internal1,47,100,8/9/2026
+S071,CS301,Machine Learning,Internal1,70,100,8/2/2026
+S071,CS302,Operating Systems,Internal1,79,100,8/4/2026
+S071,CS303,Database Management Systems,Internal1,68,100,8/6/2026
+S071,CS304,Computer Networks,Internal1,90,100,8/8/2026
+S072,CS301,Machine Learning,Internal1,83,100,8/2/2026
+S072,CS302,Operating Systems,Internal1,74,100,8/4/2026
+S072,CS303,Database Management Systems,Internal1,49,100,8/6/2026
+S072,CS304,Computer Networks,Internal1,37,100,8/8/2026
+S073,CS301,Machine Learning,Internal1,80,100,8/2/2026
+S073,CS302,Operating Systems,Internal1,44,100,8/4/2026
+S073,CS303,Database Management Systems,Internal1,30,100,8/6/2026
+S073,CS304,Computer Networks,Internal1,48,100,8/8/2026
+S074,CS301,Machine Learning,Internal1,49,100,8/2/2026
+S074,CS302,Operating Systems,Internal1,79,100,8/4/2026
+S074,CS303,Database Management Systems,Internal1,71,100,8/6/2026
+S074,CS304,Computer Networks,Internal1,73,100,8/8/2026
+S075,CS301,Machine Learning,Internal1,31,100,8/2/2026
+S075,CS302,Operating Systems,Internal1,31,100,8/4/2026
+S075,CS303,Database Management Systems,Internal1,46,100,8/6/2026
+S075,CS304,Computer Networks,Internal1,64,100,8/8/2026
+S076,CS301,Machine Learning,Internal1,53,100,8/2/2026
+S076,CS302,Operating Systems,Internal1,31,100,8/4/2026
+S076,CS303,Database Management Systems,Internal1,47,100,8/6/2026
+S076,CS304,Computer Networks,Internal1,37,100,8/8/2026
+S077,EC201,Embedded Systems,Internal1,71,100,8/3/2026
+S077,EC202,Digital Electronics,Internal1,48,100,8/5/2026
+S077,EC203,Microcontrollers,Internal1,63,100,8/7/2026
+S077,EC204,IoT,Internal1,30,100,8/9/2026
+S078,CS301,Machine Learning,Internal1,75,100,8/2/2026
+S078,CS302,Operating Systems,Internal1,79,100,8/4/2026
+S078,CS303,Database Management Systems,Internal1,34,100,8/6/2026
+S078,CS304,Computer Networks,Internal1,69,100,8/8/2026
+S079,CS301,Machine Learning,Internal1,49,100,8/2/2026
+S079,CS302,Operating Systems,Internal1,87,100,8/4/2026
+S079,CS303,Database Management Systems,Internal1,45,100,8/6/2026
+S079,CS304,Computer Networks,Internal1,46,100,8/8/2026
+S080,CS301,Machine Learning,Internal1,76,100,8/2/2026
+S080,CS302,Operating Systems,Internal1,84,100,8/4/2026
+S080,CS303,Database Management Systems,Internal1,67,100,8/6/2026
+S080,CS304,Computer Networks,Internal1,29,100,8/8/2026
+S081,CS301,Machine Learning,Internal1,47,100,8/2/2026
+S081,CS302,Operating Systems,Internal1,47,100,8/4/2026
+S081,CS303,Database Management Systems,Internal1,78,100,8/6/2026
+S081,CS304,Computer Networks,Internal1,44,100,8/8/2026
+S082,CS301,Machine Learning,Internal1,90,100,8/2/2026
+S082,CS302,Operating Systems,Internal1,75,100,8/4/2026
+S082,CS303,Database Management Systems,Internal1,37,100,8/6/2026
+S082,CS304,Computer Networks,Internal1,75,100,8/8/2026
+S083,CS301,Machine Learning,Internal1,40,100,8/2/2026
+S083,CS302,Operating Systems,Internal1,55,100,8/4/2026
+S083,CS303,Database Management Systems,Internal1,38,100,8/6/2026
+S083,CS304,Computer Networks,Internal1,79,100,8/8/2026
+S084,EC201,Embedded Systems,Internal1,64,100,8/3/2026
+S084,EC202,Digital Electronics,Internal1,62,100,8/5/2026
+S084,EC203,Microcontrollers,Internal1,93,100,8/7/2026
+S084,EC204,IoT,Internal1,37,100,8/9/2026
+S085,CS301,Machine Learning,Internal1,69,100,8/2/2026
+S085,CS302,Operating Systems,Internal1,91,100,8/4/2026
+S085,CS303,Database Management Systems,Internal1,85,100,8/6/2026
+S085,CS304,Computer Networks,Internal1,56,100,8/8/2026
+S086,CS301,Machine Learning,Internal1,93,100,8/2/2026
+S086,CS302,Operating Systems,Internal1,62,100,8/4/2026
+S086,CS303,Database Management Systems,Internal1,26,100,8/6/2026
+S086,CS304,Computer Networks,Internal1,45,100,8/8/2026
+S087,CS301,Machine Learning,Internal1,74,100,8/2/2026
+S087,CS302,Operating Systems,Internal1,54,100,8/4/2026
+S087,CS303,Database Management Systems,Internal1,37,100,8/6/2026
+S087,CS304,Computer Networks,Internal1,90,100,8/8/2026
+S088,CS301,Machine Learning,Internal1,85,100,8/2/2026
+S088,CS302,Operating Systems,Internal1,37,100,8/4/2026
+S088,CS303,Database Management Systems,Internal1,76,100,8/6/2026
+S088,CS304,Computer Networks,Internal1,52,100,8/8/2026
+S089,CS301,Machine Learning,Internal1,61,100,8/2/2026
+S089,CS302,Operating Systems,Internal1,70,100,8/4/2026
+S089,CS303,Database Management Systems,Internal1,33,100,8/6/2026
+S089,CS304,Computer Networks,Internal1,49,100,8/8/2026
+S090,CS301,Machine Learning,Internal1,92,100,8/2/2026
+S090,CS302,Operating Systems,Internal1,28,100,8/4/2026
+S090,CS303,Database Management Systems,Internal1,34,100,8/6/2026
+S090,CS304,Computer Networks,Internal1,76,100,8/8/2026
+S091,EC201,Embedded Systems,Internal1,29,100,8/3/2026
+S091,EC202,Digital Electronics,Internal1,27,100,8/5/2026
+S091,EC203,Microcontrollers,Internal1,80,100,8/7/2026
+S091,EC204,IoT,Internal1,68,100,8/9/2026
+S092,CS301,Machine Learning,Internal1,47,100,8/2/2026
+S092,CS302,Operating Systems,Internal1,31,100,8/4/2026
+S092,CS303,Database Management Systems,Internal1,70,100,8/6/2026
+S092,CS304,Computer Networks,Internal1,66,100,8/8/2026
+S093,CS301,Machine Learning,Internal1,85,100,8/2/2026
+S093,CS302,Operating Systems,Internal1,46,100,8/4/2026
+S093,CS303,Database Management Systems,Internal1,27,100,8/6/2026
+S093,CS304,Computer Networks,Internal1,51,100,8/8/2026
+S094,CS301,Machine Learning,Internal1,41,100,8/2/2026
+S094,CS302,Operating Systems,Internal1,62,100,8/4/2026
+S094,CS303,Database Management Systems,Internal1,50,100,8/6/2026
+S094,CS304,Computer Networks,Internal1,56,100,8/8/2026
+S095,CS301,Machine Learning,Internal1,56,100,8/2/2026
+S095,CS302,Operating Systems,Internal1,74,100,8/4/2026
+S095,CS303,Database Management Systems,Internal1,94,100,8/6/2026
+S095,CS304,Computer Networks,Internal1,78,100,8/8/2026
+S096,CS301,Machine Learning,Internal1,95,100,8/2/2026
+S096,CS302,Operating Systems,Internal1,28,100,8/4/2026
+S096,CS303,Database Management Systems,Internal1,41,100,8/6/2026
+S096,CS304,Computer Networks,Internal1,25,100,8/8/2026
+S097,CS301,Machine Learning,Internal1,40,100,8/2/2026
+S097,CS302,Operating Systems,Internal1,28,100,8/4/2026
+S097,CS303,Database Management Systems,Internal1,32,100,8/6/2026
+S097,CS304,Computer Networks,Internal1,47,100,8/8/2026
+S098,EC201,Embedded Systems,Internal1,40,100,8/3/2026
+S098,EC202,Digital Electronics,Internal1,74,100,8/5/2026
+S098,EC203,Microcontrollers,Internal1,33,100,8/7/2026
+S098,EC204,IoT,Internal1,26,100,8/9/2026
+S099,CS301,Machine Learning,Internal1,80,100,8/2/2026
+S099,CS302,Operating Systems,Internal1,48,100,8/4/2026
+S099,CS303,Database Management Systems,Internal1,78,100,8/6/2026
+S099,CS304,Computer Networks,Internal1,31,100,8/8/2026
+S100,CS301,Machine Learning,Internal1,95,100,8/2/2026
+S100,CS302,Operating Systems,Internal1,46,100,8/4/2026
+S100,CS303,Database Management Systems,Internal1,31,100,8/6/2026
+S100,CS304,Computer Networks,Internal1,73,100,8/8/2026
+S101,CS301,Machine Learning,Internal1,83,100,8/2/2026
+S101,CS302,Operating Systems,Internal1,83,100,8/4/2026
+S101,CS303,Database Management Systems,Internal1,67,100,8/6/2026
+S101,CS304,Computer Networks,Internal1,48,100,8/8/2026
+S102,CS301,Machine Learning,Internal1,29,100,8/2/2026
+S102,CS302,Operating Systems,Internal1,76,100,8/4/2026
+S102,CS303,Database Management Systems,Internal1,83,100,8/6/2026
+S102,CS304,Computer Networks,Internal1,87,100,8/8/2026
+S103,CS301,Machine Learning,Internal1,71,100,8/2/2026
+S103,CS302,Operating Systems,Internal1,34,100,8/4/2026
+S103,CS303,Database Management Systems,Internal1,42,100,8/6/2026
+S103,CS304,Computer Networks,Internal1,58,100,8/8/2026
+S104,CS301,Machine Learning,Internal1,57,100,8/2/2026
+S104,CS302,Operating Systems,Internal1,47,100,8/4/2026
+S104,CS303,Database Management Systems,Internal1,36,100,8/6/2026
+S104,CS304,Computer Networks,Internal1,83,100,8/8/2026
+S105,EC201,Embedded Systems,Internal1,26,100,8/3/2026
+S105,EC202,Digital Electronics,Internal1,44,100,8/5/2026
+S105,EC203,Microcontrollers,Internal1,60,100,8/7/2026
+S105,EC204,IoT,Internal1,35,100,8/9/2026
+S106,CS301,Machine Learning,Internal1,92,100,8/2/2026
+S106,CS302,Operating Systems,Internal1,64,100,8/4/2026
+S106,CS303,Database Management Systems,Internal1,43,100,8/6/2026
+S106,CS304,Computer Networks,Internal1,38,100,8/8/2026
+S107,CS301,Machine Learning,Internal1,93,100,8/2/2026
+S107,CS302,Operating Systems,Internal1,40,100,8/4/2026
+S107,CS303,Database Management Systems,Internal1,61,100,8/6/2026
+S107,CS304,Computer Networks,Internal1,67,100,8/8/2026
+S108,CS301,Machine Learning,Internal1,25,100,8/2/2026
+S108,CS302,Operating Systems,Internal1,58,100,8/4/2026
+S108,CS303,Database Management Systems,Internal1,91,100,8/6/2026
+S108,CS304,Computer Networks,Internal1,79,100,8/8/2026
+S109,CS301,Machine Learning,Internal1,90,100,8/2/2026
+S109,CS302,Operating Systems,Internal1,43,100,8/4/2026
+S109,CS303,Database Management Systems,Internal1,32,100,8/6/2026
+S109,CS304,Computer Networks,Internal1,32,100,8/8/2026
+S110,CS301,Machine Learning,Internal1,32,100,8/2/2026
+S110,CS302,Operating Systems,Internal1,52,100,8/4/2026
+S110,CS303,Database Management Systems,Internal1,93,100,8/6/2026
+S110,CS304,Computer Networks,Internal1,26,100,8/8/2026
+S111,CS301,Machine Learning,Internal1,52,100,8/2/2026
+S111,CS302,Operating Systems,Internal1,43,100,8/4/2026
+S111,CS303,Database Management Systems,Internal1,64,100,8/6/2026
+S111,CS304,Computer Networks,Internal1,78,100,8/8/2026
+S112,EC201,Embedded Systems,Internal1,44,100,8/3/2026
+S112,EC202,Digital Electronics,Internal1,28,100,8/5/2026
+S112,EC203,Microcontrollers,Internal1,72,100,8/7/2026
+S112,EC204,IoT,Internal1,91,100,8/9/2026
+S113,CS301,Machine Learning,Internal1,39,100,8/2/2026
+S113,CS302,Operating Systems,Internal1,86,100,8/4/2026
+S113,CS303,Database Management Systems,Internal1,63,100,8/6/2026
+S113,CS304,Computer Networks,Internal1,84,100,8/8/2026
+S114,CS301,Machine Learning,Internal1,84,100,8/2/2026
+S114,CS302,Operating Systems,Internal1,47,100,8/4/2026
+S114,CS303,Database Management Systems,Internal1,43,100,8/6/2026
+S114,CS304,Computer Networks,Internal1,28,100,8/8/2026
+S115,CS301,Machine Learning,Internal1,76,100,8/2/2026
+S115,CS302,Operating Systems,Internal1,44,100,8/4/2026
+S115,CS303,Database Management Systems,Internal1,82,100,8/6/2026
+S115,CS304,Computer Networks,Internal1,47,100,8/8/2026
+S116,CS301,Machine Learning,Internal1,68,100,8/2/2026
+S116,CS302,Operating Systems,Internal1,89,100,8/4/2026
+S116,CS303,Database Management Systems,Internal1,85,100,8/6/2026
+S116,CS304,Computer Networks,Internal1,44,100,8/8/2026
+S117,CS301,Machine Learning,Internal1,30,100,8/2/2026
+S117,CS302,Operating Systems,Internal1,87,100,8/4/2026
+S117,CS303,Database Management Systems,Internal1,74,100,8/6/2026
+S117,CS304,Computer Networks,Internal1,46,100,8/8/2026
+S118,CS301,Machine Learning,Internal1,85,100,8/2/2026
+S118,CS302,Operating Systems,Internal1,60,100,8/4/2026
+S118,CS303,Database Management Systems,Internal1,52,100,8/6/2026
+S118,CS304,Computer Networks,Internal1,88,100,8/8/2026
+S119,EC201,Embedded Systems,Internal1,91,100,8/3/2026
+S119,EC202,Digital Electronics,Internal1,70,100,8/5/2026
+S119,EC203,Microcontrollers,Internal1,73,100,8/7/2026
+S119,EC204,IoT,Internal1,44,100,8/9/2026
+S120,CS301,Machine Learning,Internal1,65,100,8/2/2026
+S120,CS302,Operating Systems,Internal1,65,100,8/4/2026
+S120,CS303,Database Management Systems,Internal1,41,100,8/6/2026
+S120,CS304,Computer Networks,Internal1,32,100,8/8/2026
+S121,CS301,Machine Learning,Internal1,83,100,8/2/2026
+S121,CS302,Operating Systems,Internal1,31,100,8/4/2026
+S121,CS303,Database Management Systems,Internal1,67,100,8/6/2026
+S121,CS304,Computer Networks,Internal1,92,100,8/8/2026
+S122,CS301,Machine Learning,Internal1,91,100,8/2/2026
+S122,CS302,Operating Systems,Internal1,31,100,8/4/2026
+S122,CS303,Database Management Systems,Internal1,73,100,8/6/2026
+S122,CS304,Computer Networks,Internal1,35,100,8/8/2026
+S123,CS301,Machine Learning,Internal1,29,100,8/2/2026
+S123,CS302,Operating Systems,Internal1,41,100,8/4/2026
+S123,CS303,Database Management Systems,Internal1,29,100,8/6/2026
+S123,CS304,Computer Networks,Internal1,26,100,8/8/2026
+S124,CS301,Machine Learning,Internal1,71,100,8/2/2026
+S124,CS302,Operating Systems,Internal1,80,100,8/4/2026
+S124,CS303,Database Management Systems,Internal1,53,100,8/6/2026
+S124,CS304,Computer Networks,Internal1,86,100,8/8/2026
+S125,CS301,Machine Learning,Internal1,36,100,8/2/2026
+S125,CS302,Operating Systems,Internal1,38,100,8/4/2026
+S125,CS303,Database Management Systems,Internal1,33,100,8/6/2026
+S125,CS304,Computer Networks,Internal1,71,100,8/8/2026
+S126,EC201,Embedded Systems,Internal1,83,100,8/3/2026
+S126,EC202,Digital Electronics,Internal1,79,100,8/5/2026
+S126,EC203,Microcontrollers,Internal1,64,100,8/7/2026
+S126,EC204,IoT,Internal1,47,100,8/9/2026
+S127,CS301,Machine Learning,Internal1,41,100,8/2/2026
+S127,CS302,Operating Systems,Internal1,76,100,8/4/2026
+S127,CS303,Database Management Systems,Internal1,94,100,8/6/2026
+S127,CS304,Computer Networks,Internal1,94,100,8/8/2026
+S128,CS301,Machine Learning,Internal1,49,100,8/2/2026
+S128,CS302,Operating Systems,Internal1,55,100,8/4/2026
+S128,CS303,Database Management Systems,Internal1,44,100,8/6/2026
+S128,CS304,Computer Networks,Internal1,73,100,8/8/2026
+S129,CS301,Machine Learning,Internal1,52,100,8/2/2026
+S129,CS302,Operating Systems,Internal1,90,100,8/4/2026
+S129,CS303,Database Management Systems,Internal1,87,100,8/6/2026
+S129,CS304,Computer Networks,Internal1,74,100,8/8/2026
+S130,CS301,Machine Learning,Internal1,49,100,8/2/2026
+S130,CS302,Operating Systems,Internal1,33,100,8/4/2026
+S130,CS303,Database Management Systems,Internal1,93,100,8/6/2026
+S130,CS304,Computer Networks,Internal1,44,100,8/8/2026
+S131,CS301,Machine Learning,Internal1,93,100,8/2/2026
+S131,CS302,Operating Systems,Internal1,41,100,8/4/2026
+S131,CS303,Database Management Systems,Internal1,34,100,8/6/2026
+S131,CS304,Computer Networks,Internal1,75,100,8/8/2026
+S132,CS301,Machine Learning,Internal1,83,100,8/2/2026
+S132,CS302,Operating Systems,Internal1,36,100,8/4/2026
+S132,CS303,Database Management Systems,Internal1,51,100,8/6/2026
+S132,CS304,Computer Networks,Internal1,26,100,8/8/2026
+S133,EC201,Embedded Systems,Internal1,83,100,8/3/2026
+S133,EC202,Digital Electronics,Internal1,47,100,8/5/2026
+S133,EC203,Microcontrollers,Internal1,46,100,8/7/2026
+S133,EC204,IoT,Internal1,71,100,8/9/2026
+S134,CS301,Machine Learning,Internal1,74,100,8/2/2026
+S134,CS302,Operating Systems,Internal1,51,100,8/4/2026
+S134,CS303,Database Management Systems,Internal1,56,100,8/6/2026
+S134,CS304,Computer Networks,Internal1,67,100,8/8/2026
+S135,CS301,Machine Learning,Internal1,63,100,8/2/2026
+S135,CS302,Operating Systems,Internal1,58,100,8/4/2026
+S135,CS303,Database Management Systems,Internal1,44,100,8/6/2026
+S135,CS304,Computer Networks,Internal1,32,100,8/8/2026
+S136,CS301,Machine Learning,Internal1,87,100,8/2/2026
+S136,CS302,Operating Systems,Internal1,78,100,8/4/2026
+S136,CS303,Database Management Systems,Internal1,70,100,8/6/2026
+S136,CS304,Computer Networks,Internal1,68,100,8/8/2026
+S137,CS301,Machine Learning,Internal1,25,100,8/2/2026
+S137,CS302,Operating Systems,Internal1,66,100,8/4/2026
+S137,CS303,Database Management Systems,Internal1,62,100,8/6/2026
+S137,CS304,Computer Networks,Internal1,89,100,8/8/2026
+S138,CS301,Machine Learning,Internal1,31,100,8/2/2026
+S138,CS302,Operating Systems,Internal1,77,100,8/4/2026
+S138,CS303,Database Management Systems,Internal1,61,100,8/6/2026
+S138,CS304,Computer Networks,Internal1,83,100,8/8/2026
+S139,CS301,Machine Learning,Internal1,46,100,8/2/2026
+S139,CS302,Operating Systems,Internal1,39,100,8/4/2026
+S139,CS303,Database Management Systems,Internal1,78,100,8/6/2026
+S139,CS304,Computer Networks,Internal1,79,100,8/8/2026
+S140,EC201,Embedded Systems,Internal1,36,100,8/3/2026
+S140,EC202,Digital Electronics,Internal1,40,100,8/5/2026
+S140,EC203,Microcontrollers,Internal1,84,100,8/7/2026
+S140,EC204,IoT,Internal1,45,100,8/9/2026
+S141,CS301,Machine Learning,Internal1,34,100,8/2/2026
+S141,CS302,Operating Systems,Internal1,73,100,8/4/2026
+S141,CS303,Database Management Systems,Internal1,93,100,8/6/2026
+S141,CS304,Computer Networks,Internal1,35,100,8/8/2026
+S142,CS301,Machine Learning,Internal1,25,100,8/2/2026
+S142,CS302,Operating Systems,Internal1,91,100,8/4/2026
+S142,CS303,Database Management Systems,Internal1,95,100,8/6/2026
+S142,CS304,Computer Networks,Internal1,58,100,8/8/2026
+S143,CS301,Machine Learning,Internal1,86,100,8/2/2026
+S143,CS302,Operating Systems,Internal1,35,100,8/4/2026
+S143,CS303,Database Management Systems,Internal1,78,100,8/6/2026
+S143,CS304,Computer Networks,Internal1,39,100,8/8/2026
+S144,CS301,Machine Learning,Internal1,77,100,8/2/2026
+S144,CS302,Operating Systems,Internal1,86,100,8/4/2026
+S144,CS303,Database Management Systems,Internal1,53,100,8/6/2026
+S144,CS304,Computer Networks,Internal1,75,100,8/8/2026
+S145,CS301,Machine Learning,Internal1,27,100,8/2/2026
+S145,CS302,Operating Systems,Internal1,81,100,8/4/2026
+S145,CS303,Database Management Systems,Internal1,83,100,8/6/2026
+S145,CS304,Computer Networks,Internal1,88,100,8/8/2026
+S146,CS301,Machine Learning,Internal1,78,100,8/2/2026
+S146,CS302,Operating Systems,Internal1,63,100,8/4/2026
+S146,CS303,Database Management Systems,Internal1,44,100,8/6/2026
+S146,CS304,Computer Networks,Internal1,82,100,8/8/2026
+S147,EC201,Embedded Systems,Internal1,46,100,8/3/2026
+S147,EC202,Digital Electronics,Internal1,54,100,8/5/2026
+S147,EC203,Microcontrollers,Internal1,85,100,8/7/2026
+S147,EC204,IoT,Internal1,88,100,8/9/2026
+S148,CS301,Machine Learning,Internal1,84,100,8/2/2026
+S148,CS302,Operating Systems,Internal1,76,100,8/4/2026
+S148,CS303,Database Management Systems,Internal1,63,100,8/6/2026
+S148,CS304,Computer Networks,Internal1,95,100,8/8/2026
+S149,CS301,Machine Learning,Internal1,82,100,8/2/2026
+S149,CS302,Operating Systems,Internal1,27,100,8/4/2026
+S149,CS303,Database Management Systems,Internal1,89,100,8/6/2026
+S149,CS304,Computer Networks,Internal1,94,100,8/8/2026
+S150,CS301,Machine Learning,Internal1,72,100,8/2/2026
+S150,CS302,Operating Systems,Internal1,84,100,8/4/2026
+S150,CS303,Database Management Systems,Internal1,63,100,8/6/2026
+S150,CS304,Computer Networks,Internal1,48,100,8/8/2026

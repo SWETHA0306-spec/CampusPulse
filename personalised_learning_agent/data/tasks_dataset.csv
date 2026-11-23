@@ -1,0 +1,6 @@
+task_id,student_id,task_name,category,deadline_date,status
+T001,S001,Register for Smart India Hackathon,hackathon_registration,8/1/2026,pending
+T002,S002,Submit DAA Assignment 3,assignment,7/30/2026,pending
+T003,S003,Submit ML Mini Project,task,8/15/2026,completed
+T004,S004,Submit OS Lab Record,task,7/31/2026,pending
+T005,S005,Upload AI Project Documentation,project,8/10/2026,in_progress

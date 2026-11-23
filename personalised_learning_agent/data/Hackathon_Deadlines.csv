@@ -1,0 +1,151 @@
+student_id,task_name,deadline_date,days_left,priority,status,reminder_sent,notes
+CP001,Project Proposal,2026-08-04,7,Medium,Completed,Yes,Waiting for Team
+CP002,Testing,2026-07-31,3,High,In Progress,No,Need mentor review
+CP003,EDA,2026-07-30,2,High,Not Started,No,Pending
+CP004,Model Training,2026-08-09,12,Medium,Completed,Yes,Pending
+CP005,EDA,2026-08-01,4,High,Completed,No,Waiting for Team
+CP006,Presentation,2026-08-09,12,Medium,Completed,No,Waiting for Team
+CP007,Dataset Collection,2026-08-13,16,Low,Completed,Yes,Pending
+CP008,EDA,2026-07-29,1,High,Completed,Yes,Need mentor review
+CP009,Model Training,2026-08-19,22,Low,In Progress,No,Urgent
+CP010,Project Proposal,2026-07-30,2,High,In Progress,Yes,Waiting for Team
+CP011,Presentation,2026-07-31,3,High,In Progress,No,Urgent
+CP012,Model Training,2026-08-02,5,High,In Progress,Yes,Need mentor review
+CP013,Presentation,2026-07-28,0,High,In Progress,No,Pending
+CP014,Literature Survey,2026-07-29,1,High,Not Started,Yes,Waiting for Team
+CP015,Testing,2026-08-03,6,Medium,Not Started,No,Urgent
+CP016,Literature Survey,2026-08-25,28,Low,Not Started,No,Pending
+CP017,Literature Survey,2026-08-25,28,Low,Completed,Yes,Pending
+CP018,Model Training,2026-08-23,26,Low,Not Started,Yes,Pending
+CP019,Dataset Collection,2026-08-15,18,Low,In Progress,Yes,Need mentor review
+CP020,Dataset Collection,2026-08-24,27,Low,Not Started,No,Need mentor review
+CP021,EDA,2026-08-23,26,Low,Not Started,Yes,On Track
+CP022,Literature Survey,2026-07-29,1,High,Completed,No,Pending
+CP023,Literature Survey,2026-08-10,13,Medium,Completed,No,Waiting for Team
+CP024,Project Proposal,2026-08-09,12,Medium,In Progress,No,On Track
+CP025,Model Training,2026-08-18,21,Low,Not Started,Yes,On Track
+CP026,Project Proposal,2026-08-17,20,Low,Not Started,No,On Track
+CP027,Dataset Collection,2026-08-25,28,Low,Completed,No,Urgent
+CP028,Literature Survey,2026-08-25,28,Low,Not Started,Yes,On Track
+CP029,Presentation,2026-08-24,27,Low,In Progress,Yes,Pending
+CP030,Dataset Collection,2026-08-26,29,Low,Completed,Yes,Urgent
+CP031,Presentation,2026-08-21,24,Low,In Progress,Yes,Urgent
+CP032,Literature Survey,2026-08-12,15,Medium,Completed,Yes,Urgent
+CP033,EDA,2026-08-09,12,Medium,Not Started,Yes,Need mentor review
+CP034,Presentation,2026-07-31,3,High,In Progress,No,On Track
+CP035,Final Report,2026-08-04,7,Medium,Completed,No,Pending
+CP036,EDA,2026-07-30,2,High,Completed,No,Urgent
+CP037,Testing,2026-08-12,15,Medium,In Progress,No,Pending
+CP038,Final Report,2026-08-20,23,Low,In Progress,No,Need mentor review
+CP039,Final Report,2026-08-17,20,Low,Not Started,Yes,Waiting for Team
+CP040,Dataset Collection,2026-08-01,4,High,Completed,No,Need mentor review
+CP041,Project Proposal,2026-08-15,18,Low,Completed,Yes,On Track
+CP042,Model Training,2026-08-04,7,Medium,Completed,No,Urgent
+CP043,Model Training,2026-08-22,25,Low,Completed,No,Urgent
+CP044,Literature Survey,2026-07-28,0,High,Not Started,Yes,Pending
+CP045,Presentation,2026-08-08,11,Medium,In Progress,No,Need mentor review
+CP046,Testing,2026-08-05,8,Medium,Not Started,No,Waiting for Team
+CP047,Model Training,2026-08-26,29,Low,In Progress,No,Need mentor review
+CP048,Model Training,2026-08-12,15,Medium,Completed,No,Urgent
+CP049,Model Training,2026-08-07,10,Medium,Not Started,No,Pending
+CP050,Presentation,2026-08-04,7,Medium,Not Started,No,Urgent
+CP051,Dataset Collection,2026-07-28,0,High,In Progress,Yes,Need mentor review
+CP052,Model Training,2026-08-04,7,Medium,Not Started,Yes,Urgent
+CP053,Dataset Collection,2026-08-15,18,Low,Not Started,Yes,Need mentor review
+CP054,Final Report,2026-07-30,2,High,In Progress,No,Urgent
+CP055,Project Proposal,2026-08-05,8,Medium,Completed,Yes,Waiting for Team
+CP056,Final Report,2026-08-06,9,Medium,Not Started,No,On Track
+CP057,Model Training,2026-08-27,30,Low,Completed,No,Need mentor review
+CP058,Testing,2026-08-11,14,Medium,Completed,No,Waiting for Team
+CP059,Presentation,2026-08-17,20,Low,Not Started,Yes,Need mentor review
+CP060,Presentation,2026-08-25,28,Low,Completed,Yes,Urgent
+CP061,Model Training,2026-08-09,12,Medium,Not Started,Yes,Urgent
+CP062,Dataset Collection,2026-08-07,10,Medium,Completed,Yes,Pending
+CP063,Project Proposal,2026-08-05,8,Medium,Not Started,No,Waiting for Team
+CP064,Project Proposal,2026-08-17,20,Low,Not Started,No,Urgent
+CP065,Model Training,2026-08-16,19,Low,In Progress,No,Need mentor review
+CP066,Model Training,2026-08-18,21,Low,In Progress,Yes,Urgent
+CP067,Presentation,2026-08-08,11,Medium,Completed,Yes,Pending
+CP068,EDA,2026-08-15,18,Low,In Progress,Yes,Waiting for Team
+CP069,Project Proposal,2026-08-20,23,Low,Not Started,Yes,Urgent
+CP070,Presentation,2026-08-11,14,Medium,In Progress,No,Urgent
+CP071,EDA,2026-07-28,0,High,In Progress,Yes,On Track
+CP072,Project Proposal,2026-08-09,12,Medium,In Progress,Yes,Urgent
+CP073,Presentation,2026-07-30,2,High,Not Started,Yes,Urgent
+CP074,Dataset Collection,2026-08-08,11,Medium,Not Started,Yes,On Track
+CP075,Final Report,2026-08-01,4,High,Not Started,No,Urgent
+CP076,Presentation,2026-08-16,19,Low,In Progress,Yes,Urgent
+CP077,Final Report,2026-08-19,22,Low,In Progress,Yes,Pending
+CP078,Dataset Collection,2026-08-20,23,Low,In Progress,Yes,Waiting for Team
+CP079,Presentation,2026-08-17,20,Low,Completed,No,Need mentor review
+CP080,Dataset Collection,2026-08-25,28,Low,Completed,No,On Track
+CP081,Final Report,2026-08-06,9,Medium,Not Started,No,Waiting for Team
+CP082,Testing,2026-08-24,27,Low,Completed,Yes,Waiting for Team
+CP083,Project Proposal,2026-08-26,29,Low,In Progress,Yes,Urgent
+CP084,Final Report,2026-08-06,9,Medium,Completed,Yes,Urgent
+CP085,EDA,2026-07-29,1,High,In Progress,No,Need mentor review
+CP086,Literature Survey,2026-08-02,5,High,Completed,No,Need mentor review
+CP087,Literature Survey,2026-08-20,23,Low,Completed,No,On Track
+CP088,EDA,2026-08-06,9,Medium,Not Started,Yes,Need mentor review
+CP089,Testing,2026-07-31,3,High,In Progress,No,Urgent
+CP090,Dataset Collection,2026-08-16,19,Low,Completed,No,Pending
+CP091,Project Proposal,2026-08-05,8,Medium,Not Started,No,Pending
+CP092,Dataset Collection,2026-08-16,19,Low,Completed,No,Pending
+CP093,Literature Survey,2026-08-26,29,Low,In Progress,No,Urgent
+CP094,Literature Survey,2026-08-19,22,Low,Completed,No,Pending
+CP095,Testing,2026-08-14,17,Low,In Progress,Yes,Waiting for Team
+CP096,Testing,2026-08-11,14,Medium,Not Started,Yes,On Track
+CP097,Model Training,2026-08-03,6,Medium,Not Started,No,Waiting for Team
+CP098,Model Training,2026-08-27,30,Low,Completed,Yes,Waiting for Team
+CP099,Final Report,2026-08-10,13,Medium,In Progress,Yes,Pending
+CP100,Final Report,2026-08-05,8,Medium,Not Started,Yes,Need mentor review
+CP101,Model Training,2026-08-25,28,Low,In Progress,Yes,Need mentor review
+CP102,Literature Survey,2026-08-24,27,Low,In Progress,Yes,Pending
+CP103,Literature Survey,2026-08-23,26,Low,Not Started,Yes,Urgent
+CP104,Dataset Collection,2026-08-01,4,High,In Progress,No,On Track
+CP105,Model Training,2026-08-15,18,Low,Completed,Yes,Waiting for Team
+CP106,Literature Survey,2026-07-29,1,High,Not Started,Yes,Urgent
+CP107,Testing,2026-08-14,17,Low,Completed,No,Waiting for Team
+CP108,Model Training,2026-08-04,7,Medium,In Progress,Yes,Urgent
+CP109,Literature Survey,2026-08-06,9,Medium,In Progress,No,Pending
+CP110,EDA,2026-08-18,21,Low,Completed,Yes,Need mentor review
+CP111,Model Training,2026-08-21,24,Low,In Progress,No,Need mentor review
+CP112,Model Training,2026-08-02,5,High,Not Started,Yes,Pending
+CP113,Final Report,2026-08-02,5,High,Completed,No,On Track
+CP114,Testing,2026-08-12,15,Medium,Not Started,Yes,Pending
+CP115,Model Training,2026-08-11,14,Medium,Not Started,No,Waiting for Team
+CP116,Final Report,2026-08-19,22,Low,Completed,Yes,On Track
+CP117,Testing,2026-08-02,5,High,Completed,No,Need mentor review
+CP118,Project Proposal,2026-08-20,23,Low,In Progress,No,Need mentor review
+CP119,Dataset Collection,2026-08-10,13,Medium,Not Started,No,Pending
+CP120,Project Proposal,2026-08-23,26,Low,Not Started,No,Urgent
+CP121,Project Proposal,2026-08-16,19,Low,Not Started,Yes,Need mentor review
+CP122,Testing,2026-08-04,7,Medium,Completed,No,On Track
+CP123,Presentation,2026-08-27,30,Low,Completed,No,Urgent
+CP124,Presentation,2026-08-27,30,Low,Completed,Yes,Urgent
+CP125,Project Proposal,2026-08-18,21,Low,Not Started,Yes,Waiting for Team
+CP126,EDA,2026-08-09,12,Medium,Completed,No,Pending
+CP127,Testing,2026-08-08,11,Medium,In Progress,Yes,Waiting for Team
+CP128,Testing,2026-08-12,15,Medium,In Progress,No,Urgent
+CP129,Project Proposal,2026-08-21,24,Low,In Progress,Yes,On Track
+CP130,Model Training,2026-07-28,0,High,Completed,No,Need mentor review
+CP131,Presentation,2026-08-27,30,Low,In Progress,Yes,On Track
+CP132,Presentation,2026-08-24,27,Low,Completed,No,Waiting for Team
+CP133,Testing,2026-08-26,29,Low,Not Started,Yes,Waiting for Team
+CP134,Testing,2026-08-13,16,Low,Not Started,Yes,Urgent
+CP135,Presentation,2026-08-18,21,Low,Not Started,No,On Track
+CP136,Model Training,2026-08-08,11,Medium,Not Started,Yes,Need mentor review
+CP137,Presentation,2026-08-10,13,Medium,Not Started,Yes,Waiting for Team
+CP138,Literature Survey,2026-08-12,15,Medium,In Progress,No,On Track
+CP139,Dataset Collection,2026-08-10,13,Medium,In Progress,No,Waiting for Team
+CP140,Presentation,2026-08-23,26,Low,In Progress,Yes,Waiting for Team
+CP141,Model Training,2026-08-17,20,Low,Not Started,No,On Track
+CP142,Literature Survey,2026-08-19,22,Low,Not Started,Yes,Pending
+CP143,Final Report,2026-08-09,12,Medium,Completed,Yes,Pending
+CP144,Literature Survey,2026-08-12,15,Medium,In Progress,No,Pending
+CP145,Presentation,2026-08-14,17,Low,In Progress,Yes,Urgent
+CP146,Literature Survey,2026-08-21,24,Low,Completed,Yes,Waiting for Team
+CP147,Testing,2026-08-08,11,Medium,In Progress,Yes,Pending
+CP148,Presentation,2026-08-15,18,Low,In Progress,Yes,Urgent
+CP149,Presentation,2026-08-03,6,Medium,Completed,No,Urgent
+CP150,Final Report,2026-08-21,24,Low,Completed,No,Waiting for Team
